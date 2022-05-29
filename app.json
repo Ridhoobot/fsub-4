@@ -6,8 +6,8 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/xxsans/fsub-4",
-  "logo": "https://telegra.ph/file/14d0f408cef34a67a1482.jpg",
+  "repository": "https://github.com/Ridhoobot/fsub-4",
+  "logo": "https://telegra.ph/file/56ee04b09961e94f28ef5.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
@@ -15,11 +15,11 @@
     },
     "OWNER": {
       "description": "Masukan Username Telegram untuk Owner BOT [ Jangan Pake @ ]",
-      "value": "ursickfeeling"
+      "value": "idooo8"
     },
     "OWNER_ID": {
       "description": "Masukan User ID Telegram untuk Owner BOT",
-      "value": "1926379604"
+      "value": "5235838708"
     },
     "ADMINS": {
       "description": "Masukan User ID untuk mendapatkan hak Admin BOT [Hanya dapat membuat link]",
